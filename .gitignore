@@ -1,0 +1,25 @@
+# Keil build and listing outputs
+Objects/
+Listings/
+DebugConfig/
+
+# Keil per-user settings
+*.uvguix*
+*.uvoptx
+
+# Generated logs and temporary report files
+build_log.txt
+*.build_log.htm
+report_work/
+
+# Private documents and exported reports
+*.docx
+*.pdf
+
+# Local dependency caches
+docs/node_modules/
+npm-debug.log*
+
+# Operating-system metadata
+Thumbs.db
+.DS_Store
